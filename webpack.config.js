@@ -3,7 +3,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './src/form/A19-exercicio.ts',
+  entry: './src/form/import.ts',
   module: {
     rules: [
       {
